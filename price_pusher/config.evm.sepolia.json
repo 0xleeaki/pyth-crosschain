@@ -1,0 +1,7 @@
+{
+  "endpoint": "https://arb-sepolia.g.alchemy.com/v2/wJFcRH-Yn33SnV04s6wOuLV1aX68iW-F",
+  "pyth-contract-address": "0x4374e5a8b9C22271E9EB878A2AA31DE97DF15DAF",
+  "price-service-endpoint": "https://hermes.pyth.network",
+  "mnemonic-file": "./mnemonic.txt",
+  "price-config-file": "./price-config.sepolia.yaml"
+}
